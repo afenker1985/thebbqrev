@@ -1,2 +1,5 @@
+RewriteEngine On
 Redirect 301  /index.html /
-Redirect 301 www /
+RewriteCond %{REQUEST_FILENAME} !-f 
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule / [L]
