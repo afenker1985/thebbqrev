@@ -1,5 +1,7 @@
 RewriteEngine On
 Redirect 301  /index.html /
+RewriteCond %{HTTP_HOST} ^www.thebbqrev.com
+RewriteRule (.*) http://thebbqrev.com/$1 [R=301,L]
 RewriteCond %{REQUEST_FILENAME} !-f 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule  . /index.html [L]
