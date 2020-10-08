@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <link rel="canonical" href="{{ page.url | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.url }}" />
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+  <header role="banner">
+    <h1>{{site.title}}</h1>
+    <nav>
+      <ul>
+        <li><a href="/about/">About</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    {{ content }}
+  </section>
+  <footer>
+    <em>&copy; {{ site.time | date:"%Y" }} {{site.author}}</em>
+  </footer>
+</body>
+</html>

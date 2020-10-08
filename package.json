@@ -1,0 +1,15 @@
+{
+  "name": "thebbqrev",
+  "version": "1.0.0",
+  "description": "My website.",
+  "main": ".eleventy.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  },
+  "scripts": {
+    "start": "SITE_URL=http://localhost:8081 eleventy --serve  --port 8081",
+    "build": "eleventy",
+    "clean": "rm -rf ./_site/**"
+  }
+}
