@@ -2,4 +2,4 @@ RewriteEngine On
 Redirect 301  /index.html /
 RewriteCond %{REQUEST_FILENAME} !-f 
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule / [L]
+RewriteRule  . / [L]
