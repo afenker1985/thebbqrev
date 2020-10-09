@@ -1,7 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This page is all about you!
+![The BBQ Rev](/assets/the-bbq-rev.jpeg)
+
+I'm a pastor serving in Kansas, the heart midwest BBQ.
