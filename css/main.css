@@ -3,6 +3,7 @@
 body {
 	font-family: sans-serif;
 	font-size: 10pt;
+	background-color: lightslategray;
 }
 
 h1, h2, h3, h4, h5 {
@@ -29,6 +30,12 @@ nav ul {
 nav li {
 	list-style: none;
 	display: inline;
+}
+
+footer {
+	background-color: orange;
+	color: black;
+	font-weight: bold;
 }
 
 header, footer {
