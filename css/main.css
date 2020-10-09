@@ -7,6 +7,11 @@ body {
 	overflow: auto;
 }
 
+.site-body {
+	width: 85%;
+	background-color: #ff0000;
+}
+
 .logo {
 	padding: 10px;
 }
