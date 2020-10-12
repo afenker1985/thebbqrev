@@ -59,12 +59,14 @@ nav a:hover {
   color: #e26700 !important;
   border-top: 1px solid #e26700;
   padding: 3px;
+  text-decoration: none;
 }
 
 nav a:active {
   color: #e26700 !important;
   border-top: 1px solid #e26700;
   padding-top: 3px;
+  text-decoration: none;
 }
 
 nav a:visited {
