@@ -1,15 +1,17 @@
-
-<h2>
+<h2 class="postTitle">
   <a href="{{ url }}">{{ title }}</a>
 </h2>
-<h3>by {{ site.author }}</h3>
-<h4>{{ date | date: "%b %d, %Y" }}</h4>
+<div class="postInfo">
+  <span>by {{ site.author }} | {{ date | date: "%b %d, %Y" }}</span>
+</div>
 
-<hr>
+<hr />
 
 <article>
   {{ content }}
   {% if keepReading %}
-      <p><em><a href="{{ site.url }}{{ url }}">Read More</a></em></p>
+  <p>
+    <em><a href="{{ site.url }}{{ url }}">Read More</a></em>
+  </p>
   {% endif %}
 </article>
