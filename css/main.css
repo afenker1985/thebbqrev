@@ -159,6 +159,10 @@ img {
   max-width: 400px;
 }
 
+img[src="/assets/flame.png"]{
+
+}
+
 a {
   color: #c42c00;
   text-decoration: none;
