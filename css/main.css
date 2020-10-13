@@ -184,3 +184,7 @@ header,
 footer {
   text-align: center;
 }
+
+img[class$="<"]{
+  float: left;
+}
