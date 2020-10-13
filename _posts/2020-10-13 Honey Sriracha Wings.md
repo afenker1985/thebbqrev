@@ -11,7 +11,7 @@ permalink: /2020-10-14/honey-sriracha-wings/
 
 ## Cook Date: October 10, 2020
 
-<img src="/assets/all-them-wings.jpg alt="All Them Wings" width="80%" />
+<img src="/assets/all-them-wings.jpg" alt="All Them Wings" width="80%" />
 
 I cooked up wings for myself, along with some boneless wings for my wife and kids. I also prepped the kiddos wings just as simple BBQ using Killer Hogs The BBQ Rub, which you can now pickup at Walmart.
 
@@ -106,7 +106,7 @@ The corn starch was a bad choice for baking the wings, but it was a great choice
 This too failed. I mismanaged the fire in my Jumbo Joe, and so the flattop wasn't hot enough by the time I threw the few wings I was able to get done. Got some carmelezation but not what I wanted.
 
 ### The Skinny
-Over all this was too much meat not enough time. It was terribly executed. Too many moving parts that I couldn't manage on my own. I have the feeling this would've been great had I planned and executed a smaller batch. They would've been smokier, cripsier, better battered, and doubled dipped. They may have been tasty albeit  exectued exceptionally poorly. Because of all these misques the cook got an up in smoke (![flame](/assets/flame.png)) rating.
+Over all this was too much meat not enough time. It was terribly executed. Too many moving parts that I couldn't manage on my own. I have the feeling this would've been great had I planned and executed a smaller batch. They would've been smokier, cripsier, better battered, and doubled dipped. They may have been tasty albeit  exectued exceptionally poorly. Because of all these miscues the cook got an up in smoke (![flame](/assets/flame.png)) rating.
 
 ## Reflections
 ### Overal Rating: ![flame](/assets/flame.png)![flame](/assets/flame.png)
