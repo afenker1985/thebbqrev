@@ -111,4 +111,4 @@ Over all this was too much meat not enough time. It was terribly executed. Too m
 
 Managing expectations. That's what I learned. With a growing family, I tried too much. If I go smaller scale with this, it would be easier to handle. Also, I won't try and fry so much without having the necessary equipment. I will also tweak the breading to account for baking.
 
-They tasted great and we ate all the leftovers, so not a complete fail. I fail on the cook, but the flavors were all really good and almost perfect. On the whole, this recipe is smoldering ([flame](/assets/flame.png)[flame](/assets/flame.png)), but soon I should be able to get it to smoking hot ([flame](/assets/flame.png)[flame](/assets/flame.png)[flame](/assets/flame.png)).
+They tasted great and we ate all the leftovers, so not a complete fail. I fail on the cook, but the flavors were all really good and almost perfect. On the whole, this recipe is smoldering (![flame](/assets/flame.png)![flame](/assets/flame.png)), but soon I should be able to get it to smoking hot (![flame](/assets/flame.png)![flame](/assets/flame.png)![flame](/assets/flame.png)).
