@@ -46,7 +46,7 @@ I also made a honey sriracha sauce for these wings. I actually based the recipe 
 Here's what I changed. I browned the butter before I added the other ingredients. I wanted to add a little more depth of flavor to the sauce. Based on what we had on hand, my butter was salted and soy sauce reduced sodium. I also added some liquid smoke to make it a little smoker. Here's what I did:
 
 **Ingredients**
-- 1/4C unsalted butter (1/2 stick)
+- 1/4C salted butter (1/2 stick)
 - 1/2C honey
 - 1/3C Sriracha
 - 2T soy sauce (reduced sodium)
