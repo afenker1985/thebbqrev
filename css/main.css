@@ -160,6 +160,14 @@ img {
   max-width: 400px;
 }
 
+img[src="/assets/flame.png"] {
+  height: 10px;
+}
+
+img[src="/assets/half-flame.png"] {
+  height: 10px;
+}
+
 a {
   color: #c42c00;
   text-decoration: none;
