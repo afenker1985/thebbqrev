@@ -186,5 +186,5 @@ footer {
 }
 
 img[src*="#float-left"] {
-  float: left;
+  text-align: left;
 }
