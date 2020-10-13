@@ -188,3 +188,12 @@ footer {
 img[src*="#float-left"] {
   text-align: left;
 }
+
+img[alt*="The BBQ Rev"] {
+  width: 150px;
+  height: 150px;
+}
+
+td {
+  vertical-align: top;
+}
