@@ -185,6 +185,6 @@ footer {
   text-align: center;
 }
 
-img[class$="<"]{
+img .float-left {
   float: left;
 }
