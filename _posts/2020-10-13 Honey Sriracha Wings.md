@@ -11,6 +11,8 @@ permalink: /2020-10-14/honey-sriracha-wings/
 
 ## Cook Date: October 10, 2020
 
+<img src="/assets/all-them-wing.jpeg" alt="All Them Wings" width="80%" />
+
 I cooked up wings for myself, along with some boneless wings for my wife and kids. I also prepped the kiddos wings just as simple BBQ using Killer Hogs The BBQ Rub, which you can now pickup at Walmart.
 
 [Video:]() [_coming soon!_]
