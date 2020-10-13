@@ -18,12 +18,7 @@ I cooked up wings for myself, along with some boneless wings for my wife and kid
 
 <!-- excerpt -->
 
-[Rub](/#rub)\
-[Sauce](/#sauce)\
-[Cook](/#cook)\
-[Reflections](/#reflections)
-
-### [Rub](#rub)
+### Rub
 #### Rating: ![flame](/assets/flame.png)![flame](/assets/flame.png)![half-flame](/assets/half-flame.png)
 
 I mixed up my own rub for this one. It was a garlic ginger rub. I wanted to add to the Asian theme from the sriracha, which is why there was garlic ginger, along with a few other things in their, too.
@@ -44,9 +39,7 @@ So, what did I think? I think this rub was a good start. _(Definitely lightyears
 
 A;l in all, I'll definitely use this rub again, and I'll update you on how that turns out. I give the rub a solid ![flame](/assets/flame.png)![flame](/assets/flame.png)![half-flame](/assets/half-flame.png) (smoldering+) rating.
 
-[back to top](/#top)
-
-### [Sauce](#sauce)
+### Sauce
 #### Rating: ![flame](/assets/flame.png)![flame](/assets/flame.png)![half-flame](/assets/half-flame.png)
 
 I also made a honey sriracha sauce for these wings. I actually based the recipe off of this one at [Sauce Fanatic](https://www.saucefanatic.com/honey-sriracha-sauce/).
@@ -80,9 +73,7 @@ I don't think I browned the butter enough. I was rushing to get it done before t
 
 Overall this is a really good sauce. I will definitely be using it again, with the changes I indicated above. It wasn't quite a _smoking hot_ recipe, but oh so close. In the end a ![flame](/assets/flame.png)![flame](/assets/flame.png)![half-flame](/assets/half-flame.png) (smoldering+) rating.
 
-[back to top](/#top)
-
-### [Cook](#cook)
+### Cook
 #### Rating: ![flame](/assets/flame.png)
 
 This is where this entire meal fell flat. I wanted to smoke the wings for a bit, bread and fry them, and then double dip them in the sauce. Double dip means you fry the wing, spin them in the sauce, char 'em up a bit on a grill/flat top, spin them in the sauce again, and serve. It's a trick I learned during my time in seminary from [The Corner Pocket](https://www.cornerpocketfw.com/) in Ft. Wayne, IN.
@@ -116,13 +107,9 @@ This too failed. I mismanaged the fire in my Jumbo Joe, and so the flattop wasn'
 #### The Skinny
 Over all this was too much meat not enough time. It was terribly executed. Too many moving parts that I couldn't manage on my own. I have the feeling this would've been great had I planned and executed a smaller batch. They would've been smokier, cripsier, better battered, and doubled dipped. They may have been tasty albeit  exectued exceptionally poorly. Because of all these misques the cook got an up in smoke ([flame](/assets/flame.png)) rating.
 
-[back to top](/#top)
-
-### Reflections[](#reflections)
+### Reflections
 #### Overal Rating: ![flame](/assets/flame.png)![flame](/assets/flame.png)
 
 Managing expectations. That's what I learned. With a growing family, I tried too much. If I go smaller scale with this, it would be easier to handle. Also, I won't try and fry so much without having the necessary equipment. I will also tweak the breading to account for baking.
 
-They tasted great and we ate all the leftovers, so not a complete fail. I fail on the cook, but the flavors were all really good and almost perfect. On the whole, this recipe is smoldering ([flame](/assets/flame.png)[flame](/assets/flame.png)), but soon I should be able to get it to smoking hot ([flame](/assets/flame.png)[flame](/assets/flame.png)[flame](/assets/flame.png)). 
-
-[back to top](/#top)
+They tasted great and we ate all the leftovers, so not a complete fail. I fail on the cook, but the flavors were all really good and almost perfect. On the whole, this recipe is smoldering ([flame](/assets/flame.png)[flame](/assets/flame.png)), but soon I should be able to get it to smoking hot ([flame](/assets/flame.png)[flame](/assets/flame.png)[flame](/assets/flame.png)).

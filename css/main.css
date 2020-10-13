@@ -161,11 +161,11 @@ img {
 }
 
 img[src="/assets/flame.png"] {
-  height: 10px;
+  height: 25px;
 }
 
 img[src="/assets/half-flame.png"] {
-  height: 10px;
+  height: 25px;
 }
 
 a {
