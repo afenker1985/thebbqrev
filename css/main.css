@@ -1,5 +1,5 @@
-/* @import "bootstrap.css"; */
-@import url("https://fonts.googleapis.com/css2?family=Bungee+Inline&family=Poppins:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400&display=swap");
+/*@import "bootstrap.css";*/
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@900&family=Poppins:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400&display=swap");
 
 @media screen and (max-width: 700px) {
   header {
@@ -10,7 +10,6 @@
     width: 100% !important;
     height: 100% !important;
     z-index: 10;
-    display: block !important;
     padding-top: 15px;
   }
 
@@ -57,7 +56,7 @@ body {
 h1,
 h2,
 h3 {
-  font-family: "Bungee Inline", sans-serif;
+  font-family: "Raleway", sans-serif;
 }
 
 header {
