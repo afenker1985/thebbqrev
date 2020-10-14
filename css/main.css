@@ -221,3 +221,7 @@ header,
 footer {
   text-align: center;
 }
+
+td {
+vertical-align: top;
+}
