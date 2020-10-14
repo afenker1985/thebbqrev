@@ -20,15 +20,15 @@
     <body>
         <header role="banner">
             <div class="logo">
-                <img src="/assets/bbq-rev-logo.png" alt="{{ site.title }}"/>
+                <a href="/"><img src="/assets/bbq-rev-logo.png" alt="{{ site.title }}"/></a>
                 <div class="mobileMenu">
-                    <a class="icon" data-target="#mobilenavigation" data-toggle="collapse" role="button">
+                    <a class="navbar-toggle" href="#" role="button">
                         <i class="fa fa-bars"></i>
                     </a>
                 </div>
             </div>
 
-            <div class="navbar collapse" id="mobilenavigation">
+            <div class="navbar updown" id="nav">
                 <nav>
                     <ul>
                         <li><a href="/">Home</a></li>
@@ -49,8 +49,15 @@
 
         <footer>
             <em>&copy;
-                {{ site.time | date: "%Y" }}
+                {{ "now"| date: "%Y" }}
                 {{ site.author }}</em>
         </footer>
+
+        <script type="text/javascript">
+            const nav = document.querySelector("#nav");
+            document.querySelector(".navbar-toggle").addEventListener("click", function () {
+                nav.classList.toggle("updown");
+            });
+        </script>
     </body>
 </html>
