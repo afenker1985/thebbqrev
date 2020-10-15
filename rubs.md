@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Rubs and Sauces
-permalink: /rubs
+permalink: /rubs/
 ---
 Here's a list of the rubs and sauces I've either developed or am in the process of developing:
 
