@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Honey Sriracha Wings
-date: 2020-10-14T12:00
+date: October 14, 2020
 categories:
     - rub
     - sauce

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kohlmeier's Cooker
-date: 2020-10-17T2030
+date: October 17, 2020
 categories:
     - cookers
 permalink: /2020-10-17/kohlmeiers-cooker
