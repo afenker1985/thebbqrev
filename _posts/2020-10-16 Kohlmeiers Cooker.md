@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kohlmeier's Cooker
-date: 2020-10-17
+date: 2020-10-17T2030
 categories:
     - cookers
 permalink: /2020-10-17/kohlmeiers-cooker
@@ -38,4 +38,4 @@ All around, this is a great cooker. It's a bit more hands on, and definitely mor
 
 Either one of these will work for you, Jon. You can smoke a pork butt just as well on the Weber Kettle as you can on the Highland. If you've got a big cook coming up, you may just have to do it over a couple days with the kettle. (Or there's other options, too, to help you plan and manage a larger cook with a smaller cooker.) I know because I've smoked a butts on my Highland and Jumbo Joe. You can definitely grill easily on the Weber, and I'm sure you can grill excelently on the Highland. Grilling just isn't my strong suit.
 
-So, take your pick, Jon. Each cooker has positives and negatives. But either would suit you nicely.
+So, take your pick, Jon. Each cooker has positives and negatives. But either would suit you nicely. (And thanks for designing the site!)
