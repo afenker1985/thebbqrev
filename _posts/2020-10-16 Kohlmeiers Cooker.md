@@ -32,7 +32,7 @@ Growing up with a Weber Kettle, grilling has never felt comfortable for me on th
 
 I've smoked great food on this smoker. I love it. You can't do much better for an entry level offset. You can modify it some, but some of those can get pricey. It smokes great. It even smoke roasts great, too. That's what I call it, anyway. I set up charcoal in the cooking chamber towards the firebox end, in my [Weber Char-Baskets](https://amzn.to/37kVPcn) of course, and throw some chunks on as well. I cook indirect and then finish direct. Temps at about 350-375°, but I still get great smoke flavor. Now, I'm don't really cook my steaks to medium rare which I prefer, but they still taste great.
 
-All around, this is a great cooker. It's a bit more hands on, and definitely more in the smoking meat wheelhouse. To be honest, if/when this one rusts out, I'll probably get another one or even the [Longhorn](https://www.oklahomajoes.com/longhorn-offset-smoker). _(Though the Yoder [Cheyene](https://www.yodersmokers.com/backyard/the-cheyenne) is tempting.)_ If you've got the budget for it, I wouldn't say it's a bad choice.
+All around, this is a great cooker. It's a bit more hands on, and definitely more in the smoking meat wheelhouse. To be honest, if/when this one rusts out, I'll probably get another one or even the [Longhorn](https://www.oklahomajoes.com/longhorn-offset-smoker). _(Though the Yoder [Cheyene](https://www.yodersmokers.com/backyard/the-cheyenne) is tempting.)_ If you've got the budget for it, I wouldn't say the [Oklahama Joes Highland](https://www.lowes.com/pd/Oklahoma-Joe-s-Highland-879-sq-in-Black-Charcoal-Horizontal-Smoker/50329703) is a bad choice.
 
 # Summary
 
