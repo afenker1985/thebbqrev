@@ -4,7 +4,7 @@ title: Kohlmeier's Cooker
 date: 2020-10-17
 categories:
     - cookers
-permalink: /2020-10-17/kohlmeiers-cooker
+permalink: /2020-10-17/kohlmeiers-cooker/
 ---
 
 My friend Jon needs a new cooker, and he's looking for a recomendation. Now, Jon is budget minded. I had been operating on that assumption as I came up with my recomendation, but, at the 11th hour, he's told me that he's got a higher budget than I had originally thought. Now, this doesn't change my initial recomendation, but it does add a second one to this post. So, Jon, here you go:
