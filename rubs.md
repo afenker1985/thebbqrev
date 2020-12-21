@@ -15,3 +15,7 @@ Here's a list of the rubs and sauces I've either developed or am in the process 
 ## Sauces
 
 * Honey Sriracha Sauce
+
+## Salts
+
+* S1 - Whiskey Barrel Smoked, Bourbon Infused
